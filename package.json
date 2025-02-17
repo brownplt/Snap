@@ -1,0 +1,22 @@
+{
+  "name": "snap",
+  "version": "10.4.6",
+  "description": "a visual, blocks based programming language inspired by Scratch",
+  "main": "sw.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brownplt/Snap.git"
+  },
+  "author": "Jens Mönig and Brian Harvey",
+  "license": "AGPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/brownplt/Snap/issues"
+  },
+  "homepage": "https://github.com/brownplt/Snap#readme"
+}
